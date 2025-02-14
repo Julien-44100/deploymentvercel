@@ -17,6 +17,7 @@ function App() {
             size={10}
           />
         </form>
+        <h2> bonjour</h2>
       </section>
     </>
   );
